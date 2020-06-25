@@ -1,3 +1,5 @@
 _pycache_/
 migrations/
 remarks
+env/
+.vscode/
